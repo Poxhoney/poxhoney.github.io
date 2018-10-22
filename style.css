@@ -1,5 +1,7 @@
 body { 
     background-color:#e9e0c7;
+    background-image: url(background.png);
+    background-repeat: repeat;
     color:#ffffff;
 }
 
