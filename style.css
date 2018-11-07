@@ -41,22 +41,29 @@ body {
     right:0%;
 }
 
+.window {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    grid-auto-columns: minmax(100px, auto);
+}
+
 #linkblock {
-    width:20%;
-    margin-left:20px;
-    margin-right:20px;
-    margin-bottom:40px;
-    padding-left:27px;
-    padding-right:1px;
+    width: 17.5%;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:30px;
+    padding-left:14px;
+    padding-right:0px;
     padding-top:0px;
-    padding-bottom:350px;
+    padding-bottom:285px;
     color:#000;
     text-align: left;
-    background-position:top 0px left 0px;
-    background-size:cover; 
-    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover; 
+    background-repeat: no-repeat;
     display: inline-block;
-    vertical-align: top;
+    vertical-align: baseline;
 }
 
 
