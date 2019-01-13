@@ -3,4 +3,4 @@ basic startpage
 
 sample here
 
-https://poxpi.github.io/
+https://justtran.github.io/
