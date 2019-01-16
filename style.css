@@ -59,7 +59,6 @@ body {
     color:#000;
     text-align: left;
     background-position: initial;
-    background-origin: content-box;
     background-size: cover; 
     background-repeat: no-repeat;
     display: inline-block;
