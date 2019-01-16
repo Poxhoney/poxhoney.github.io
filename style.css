@@ -13,7 +13,6 @@ body {
 }
 
 #searchbox{
-
     width: 45%;
     height: 4%;
     border: none;
@@ -59,19 +58,18 @@ body {
     padding-bottom:285px;
     color:#000;
     text-align: left;
-    background-position: center;
+    background-position: initial;
+    background-origin: content-box;
     background-size: cover; 
     background-repeat: no-repeat;
     display: inline-block;
     vertical-align: baseline;
 }
 
-
 ul { 
     list-style-type: none;
     padding-left: 0;
     text-transform: lowercase;
-
 } 
 
 a:link { text-decoration:none; font-weight:normal; color:#333; }
