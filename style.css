@@ -59,7 +59,7 @@ body {
     color: #000;
     text-align: left;
     background-position: center top;
-    background-size: contain; 
+    background-size: cover; 
     background-repeat: no-repeat;
     display: inline-block;
     vertical-align: baseline;
