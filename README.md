@@ -3,4 +3,4 @@ basic startpage
 
 sample here
 
-https://justtran.github.io/
+https://justtran.github.io/sistersstart
